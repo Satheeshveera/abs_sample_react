@@ -20,6 +20,7 @@ const VegLists =(props)=>{
     return(
         <div className="mt-2">
             <h2>Vegetarian Foods</h2>
+            <div className="underLine"></div>
             <div className="container">
             <div className="row">
            {listItem}
